@@ -50,7 +50,7 @@
           <mxGeometry x="210" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="49MaR5HMLbOFtvmGAsuI-7" value="9.异步Http请求&lt;div&gt;（Http线程）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="510" width="120" height="40" as="geometry" />
+          <mxGeometry x="380" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="49MaR5HMLbOFtvmGAsuI-9" value="10. 更新页面数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="590" width="120" height="40" as="geometry" />
